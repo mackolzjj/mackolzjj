@@ -8,7 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3200&pause=600&center=true&vCenter=true&multiline=true&color=FF2E97,B026FF,00F0FF,E040FB&width=900&lines=嵌入式+%26+路由器固件玩家+%7C+Embedded+%26+Router+Dev;eBPF+%2F+honk+%2F+dae+折腾中+%7C+Tinkering+eBPF;OpenWrt+%2F+ImmortalWrt+固件定制+%7C+Firmware+Builder;网络工具+%26+代理生态爱好者+%7C+Network+%26+Proxy+Lover" alt="typing"/>
 </p>
 
-<h1 align="center">👋 你好，我是 mackolzjj &nbsp;·&nbsp; Hi, I'm mackolzjj</h1>
 <p align="center">
   <b>嵌入式 / 路由器固件玩家 · 网络工具爱好者 · eBPF 代理折腾人</b><br>
   <i>Embedded &amp; Router Firmware Enthusiast · Network Tooling · eBPF Proxy Hacker</i>
