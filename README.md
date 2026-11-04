@@ -1,5 +1,78 @@
-<!-- 🛠 技术栈 · Tech Stack（终端风） -->
-<h2 align="center">🛠 技术栈 · Tech Stack</h2>
+<!-- 顶部粒子 Banner（自托管） -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mackolzjj/mackolzjj/main/assets/tech-terminal.svg" width="100%" alt="tech stack terminal"/>
+  <img src="assets/particles.svg" alt="banner" width="100%"/>
+</p>
+
+<h1 align="center">// NETWORK &amp; FIRMWARE HACKER</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mackolzjj&label=Profile%20Views&color=FF2E97&style=flat-square" alt="views"/>
+  <img src="https://img.shields.io/github/followers/mackolzjj?label=Followers&style=social" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/mackolzjj?label=Stars&style=social" alt="stars"/>
+</p>
+
+<!-- 打字机（中英双语） -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3200&pause=800&color=FF2E97,B026FF&center=true&vCenter=true&multiline=true&width=640&height=80&lines=嵌入式+%2F+路由器固件爱好者;网络工具爱好者;eBPF+代理折腾人" alt="typing"/>
+</p>
+
+<p align="center">
+  <em>嵌入式 / 路由器固件爱好者 · 网络工具爱好者 · eBPF 代理折腾人</em><br/>
+  <em>嵌入式和路由器固件爱好者 · 网络工具 · eBPF 代理黑客</em>
+</p>
+
+<!-- 分隔线 -->
+<img src="assets/holo.svg" width="100%"/>
+
+## 📟 数据仪表盘 · Metrics
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mackolzjj/mackolzjj/main/github-metrics.svg" alt="metrics" width="100%"/>
+</p>
+
+<img src="assets/holo.svg" width="100%"/>
+
+## 🔥 连续提交 · Commit Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=mackolzjj&theme=tokyonight&hide_border=true&background=0D1117" alt="streak"/>
+</p>
+
+<img src="assets/holo.svg" width="100%"/>
+
+## 🐍 贡献蛇 · Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mackolzjj/mackolzjj/output/github-snake.svg" alt="snake"/>
+</p>
+
+<img src="assets/holo.svg" width="100%"/>
+
+## 🛠 技术栈 · Tech Stack
+
+<p align="center">
+  <img src="assets/tech-terminal.svg" alt="tech stack" width="100%"/>
+</p>
+
+<img src="assets/holo.svg" width="100%"/>
+
+## 📦 项目 · Projects
+
+| 项目 | 说明 | 技术 |
+| --- | --- | --- |
+| [`Phicomm-N1_OpenWrt`](https://github.com/mackolzjj/Phicomm-N1_OpenWrt) | 斐讯 N1 OpenWrt 固件（eBPF / BTF 底座，可手动装 honk） | OpenWrt 25.12 · 6.12.y |
+| [`Phicomm-N1_ImmortalWrt`](https://github.com/mackolzjj/Phicomm-N1_ImmortalWrt) | 斐讯 N1 ImmortalWrt 固件（内置 honk 代理） | ImmortalWrt 25.12 · 6.18.y |
+
+<img src="assets/holo.svg" width="100%"/>
+
+## 🔗 链接 · Links
+
+<p align="center">
+  <a href="https://github.com/mackolzjj"><img src="https://img.shields.io/badge/GitHub-FF2E97?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
+  <a href="https://github.com/mackolzjj?tab=repositories"><img src="https://img.shields.io/badge/Repos-B026FF?style=for-the-badge&logo=github&logoColor=white" alt="repos"/></a>
+</p>
+
+<!-- 波浪页脚 -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2E97,50:B026FF,100:E040FB&height=140&section=footer" alt="footer"/>
 </p>
