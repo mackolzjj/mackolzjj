@@ -1,12 +1,3 @@
-<!-- 顶部粒子 Banner（自托管） -->
-<p align="center">
-  <img src="assets/particles.svg" alt="banner" width="100%"/>
-</p>
-
-<h1 align="center">// NETWORK &amp; FIRMWARE HACKER</h1>
-
-<img src="assets/holo.svg" width="100%"/>
-
 ## 🐍 贡献蛇 · Contribution Snake
 
 <p align="center">
