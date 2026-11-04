@@ -1,11 +1,11 @@
-<!-- 🌌 粒子动态 Banner（自托管，无外部依赖） -->
+<!-- 🌌 HERO：自托管粒子 Banner（无用户名） -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mackolzjj/mackolzjj/main/assets/particles.svg" width="100%" alt="particles"/>
+  <img src="https://raw.githubusercontent.com/mackolzjj/mackolzjj/main/assets/particles.svg" width="100%" alt="particles banner"/>
 </p>
 
 <!-- ⌨️ 打字机动画（霓虹粉紫） -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3200&pause=600&center=true&vCenter=true&multiline=true&color=FF2E97,B026FF,00F0FF,E040FB&width=900&lines=嵌入式+%26+路由器固件玩家+%7C+Embedded+%26+Router+Dev;eBPF+%2F+honk+%2F+dae+折腾中+%7C+Tinkering+eBPF;OpenWrt+%2F+ImmortalWrt+固件定制+%7C+Firmware+Builder;网络工具+%26+代理生态爱好者+%7C+Network+%26+Proxy+Lover" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=600&center=true&vCenter=true&multiline=true&color=FF2E97,B026FF,00F0FF,E040FB&width=900&lines=嵌入式+%26+路由器固件玩家+%7C+Embedded+%26+Router+Dev;eBPF+%2F+honk+%2F+dae+折腾中+%7C+Tinkering+eBPF;OpenWrt+%2F+ImmortalWrt+固件定制+%7C+Firmware+Builder;网络工具+%26+代理生态爱好者+%7C+Network+%26+Proxy+Lover" alt="typing"/>
 </p>
 
 <p align="center">
@@ -13,36 +13,40 @@
   <i>Embedded &amp; Router Firmware Enthusiast · Network Tooling · eBPF Proxy Hacker</i>
 </p>
 
+<!-- 🔢 访客 & 社交 -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mackolzjj&label=Profile%20Views&color=FF2E97&style=flat-square&labelColor=0d0221" alt="views"/>
   <img src="https://img.shields.io/github/followers/mackolzjj?label=Followers&style=social" alt="followers"/>
   <img src="https://img.shields.io/github/stars/mackolzjj?label=Stars&style=social" alt="stars"/>
+  <img src="https://img.shields.io/github/last-commit/mackolzjj/mackolzjj?label=Last%20Commit&color=B026FF" alt="last commit"/>
 </p>
 
-<!-- 📟 Metrics 整页仪表盘 -->
+<p align="center"><img src="https://raw.githubusercontent.com/mackolzjj/mackolzjj/main/assets/holo.svg" width="100%" alt="divider"/></p>
+
+<!-- 📟 METRICS 整页仪表盘（自生成，含成就墙 / 语言占比 / 贡献日历 / 近期活动 / 热门仓库） -->
 <h2 align="center">📟 数据仪表盘 · Metrics Dashboard</h2>
+<p align="center"><i>成就墙 Achievements · 语言占比 Languages · 贡献日历 Calendar · 近期活动 Activity · 热门仓库 Repos</i></p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mackolzjj/mackolzjj/metrics/metrics.svg" width="100%" alt="metrics dashboard"/>
+  <img src="https://raw.githubusercontent.com/mackolzjj/mackolzjj/main/github-metrics.svg" width="480" alt="metrics dashboard"/>
 </p>
 
-<!-- 📊 统计卡 -->
-<h2 align="center">📊 统计 · Stats</h2>
+<p align="center"><img src="https://raw.githubusercontent.com/mackolzjj/mackolzjj/main/assets/holo.svg" width="100%" alt="divider"/></p>
+
+<!-- 🔥 连续提交 -->
+<h2 align="center">🔥 连续提交 · Commit Streak</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mackolzjj&show_icons=true&theme=dracula&hide_border=true&bg_color=0d0221&title_color=FF2E97&icon_color=B026FF&text_color=D3D3D3&locale=zh-Hans" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mackolzjj&theme=dracula&hide_border=true&background=0d0221&stroke=FF2E97&ring=B026FF&fire=E040FB&currStreakLabel=E040FB" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=mackolzjj&theme=tokyonight&hide_border=true&background=0d0221&stroke=FF2E97&ring=B026FF&fire=E040FB&currStreakLabel=E040FB" height="180" alt="streak"/>
 </p>
 
-<!-- 🔥 活跃度热力图 -->
-<h2 align="center">🔥 活跃度 · Activity Heatmap</h2>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mackolzjj&theme=react-dark&bg_color=0d0221&color=FF2E97&line=B026FF&point=E040FB&area=true&hide_border=true" alt="activity"/>
-</p>
+<p align="center"><img src="https://raw.githubusercontent.com/mackolzjj/mackolzjj/main/assets/holo.svg" width="100%" alt="divider"/></p>
 
 <!-- 🐍 贡献蛇 -->
 <h2 align="center">🐍 贡献蛇 · Contribution Snake</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/mackolzjj/mackolzjj/output/github-snake.svg" width="100%" alt="snake"/>
 </p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/mackolzjj/mackolzjj/main/assets/holo.svg" width="100%" alt="divider"/></p>
 
 <!-- 🔧 项目 -->
 <h2 align="center">🔧 我的项目 · My Projects</h2>
@@ -58,6 +62,8 @@
 
 </div>
 
+<p align="center"><img src="https://raw.githubusercontent.com/mackolzjj/mackolzjj/main/assets/holo.svg" width="100%" alt="divider"/></p>
+
 <!-- 🛠 技术栈 -->
 <h2 align="center">🛠 技术栈 · Tech Stack</h2>
 <p align="center">
@@ -67,6 +73,8 @@
   <img src="https://img.shields.io/badge/eBPF-E040FB?logo=linux&logoColor=white&style=for-the-badge" alt="eBPF"/>
   <img src="https://img.shields.io/badge/V2Ray-FF2E97?logo=v2ray&logoColor=white&style=for-the-badge" alt="V2Ray"/>
   <img src="https://img.shields.io/badge/Actions-00F0FF?logo=githubactions&logoColor=white&style=for-the-badge" alt="Actions"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker"/>
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge" alt="C"/>
 </p>
 
 <!-- 🌌 页脚 -->
@@ -75,5 +83,5 @@
 </p>
 
 <p align="center">
-  <i>⚡ Powered by capsule-render · readme-typing-svg · lowlighter/metrics · github-readme-stats · trophy · activity-graph · Platane/snk ⚡</i>
+  <i>⚡ Built with capsule-render · readme-typing-svg · lowlighter/metrics · streak-stats · Platane/snk ⚡</i>
 </p>
