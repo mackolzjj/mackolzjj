@@ -3,8 +3,6 @@ name: Metrics
 on:
   schedule:
     - cron: "0 1 * * *"
-  push:
-    branches: [ main ]
   workflow_dispatch:
 
 permissions:
@@ -22,11 +20,10 @@ jobs:
           template: classic
           base: header, activity, repositories, metadata
           config_timezone: Asia/Shanghai
-          # 直接提交到 metrics 分支（自托管，无需额外发布步骤）
+          # 直接提交到默认分支（main），文件名 github-metrics.svg
           output_action: commit
-          output_branch: metrics
+          output_branch: main
           output_condition: data-changed
-          outputs: metrics.svg
           # 成就墙（无需额外密钥）
           plugin_achievements: yes
           plugin_achievements_threshold: C
@@ -34,6 +31,7 @@ jobs:
           # 语言占比
           plugin_languages: yes
           plugin_languages_limit: 8
+          plugin_languages_threshold: 1%
           # 贡献日历
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
