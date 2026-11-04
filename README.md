@@ -1,3 +1,9 @@
+<!-- 👋 简介 -->
+<p align="center">
+  <b>嵌入式 / 路由器固件爱好者 · 网络工具爱好者 · eBPF 代理折腾人</b><br>
+  <i>嵌入式和路由器固件爱好者 · 网络工具 · eBPF 代理黑客</i>
+</p>
+
 <!-- 📟 数据仪表盘 · Metrics -->
 <h2 align="center">📟 数据仪表盘 · Metrics</h2>
 <p align="center">
