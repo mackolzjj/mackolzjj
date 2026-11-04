@@ -19,12 +19,6 @@
   <img src="https://img.shields.io/github/stars/mackolzjj?label=Stars&style=social" alt="stars"/>
 </p>
 
-<!-- 🏆 奖杯墙 -->
-<h2 align="center">🏆 奖杯墙 · Trophy Wall</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mackolzjj&theme=radical&no-frame=true&no-bg=true&row=2&column=4&margin-w=12" alt="trophy"/>
-</p>
-
 <!-- 📟 Metrics 整页仪表盘 -->
 <h2 align="center">📟 数据仪表盘 · Metrics Dashboard</h2>
 <p align="center">
