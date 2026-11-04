@@ -3,14 +3,6 @@
   <img src="assets/banner.svg" alt="banner" width="100%"/>
 </p>
 
-## 🐍 贡献蛇 · Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mackolzjj/mackolzjj/output/github-snake.svg" alt="snake"/>
-</p>
-
-<img src="assets/holo.svg" width="100%"/>
-
 ## 📦 项目 · Projects
 
 | 项目 | 说明 | 技术 |
