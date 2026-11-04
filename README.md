@@ -15,14 +15,6 @@
 
 <img src="assets/holo.svg" width="100%"/>
 
-## 🛠 技术栈 · Tech Stack
-
-<p align="center">
-  <img src="assets/tech-terminal.svg" alt="tech stack" width="100%"/>
-</p>
-
-<img src="assets/holo.svg" width="100%"/>
-
 ## 📦 项目 · Projects
 
 | 项目 | 说明 | 技术 |
