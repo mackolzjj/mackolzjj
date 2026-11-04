@@ -5,39 +5,6 @@
 
 <h1 align="center">// NETWORK &amp; FIRMWARE HACKER</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mackolzjj&label=Profile%20Views&color=FF2E97&style=flat-square" alt="views"/>
-  <img src="https://img.shields.io/github/followers/mackolzjj?label=Followers&style=social" alt="followers"/>
-  <img src="https://img.shields.io/github/stars/mackolzjj?label=Stars&style=social" alt="stars"/>
-</p>
-
-<!-- 打字机（中英双语） -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3200&pause=800&color=FF2E97,B026FF&center=true&vCenter=true&multiline=true&width=640&height=80&lines=嵌入式+%2F+路由器固件爱好者;网络工具爱好者;eBPF+代理折腾人" alt="typing"/>
-</p>
-
-<p align="center">
-  <em>嵌入式 / 路由器固件爱好者 · 网络工具爱好者 · eBPF 代理折腾人</em><br/>
-  <em>嵌入式和路由器固件爱好者 · 网络工具 · eBPF 代理黑客</em>
-</p>
-
-<!-- 分隔线 -->
-<img src="assets/holo.svg" width="100%"/>
-
-## 📟 数据仪表盘 · Metrics
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mackolzjj/mackolzjj/main/github-metrics.svg" alt="metrics" width="100%"/>
-</p>
-
-<img src="assets/holo.svg" width="100%"/>
-
-## 🔥 连续提交 · Commit Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mackolzjj&theme=tokyonight&hide_border=true&background=0D1117" alt="streak"/>
-</p>
-
 <img src="assets/holo.svg" width="100%"/>
 
 ## 🐍 贡献蛇 · Contribution Snake
