@@ -7,7 +7,7 @@
 
 | 项目 | 说明 | 技术 |
 | --- | --- | --- |
-| [`Phicomm-N1_OpenWrt`](https://github.com/mackolzjj/Phicomm-N1_OpenWrt) | 斐讯 N1 OpenWrt 固件（eBPF / BTF 底座，可手动装 honk） | OpenWrt 25.12 · 6.12.y |
+| [`N1-OpenWrt`](https://github.com/mackolzjj/N1-OpenWrt) | 斐讯 N1 OpenWrt 固件（eBPF / BTF 底座，可手动装 honk） | OpenWrt 25.12 · 6.12.y |
 | [`N1_ImmortalWrt`](https://github.com/mackolzjj/N1_ImmortalWrt) | 斐讯 N1 ImmortalWrt 固件（内置 honk 代理） | ImmortalWrt 25.12 · 6.18.y |
 
 <!-- 波浪页脚 -->
